@@ -1,0 +1,1002 @@
+[
+  {
+    "IssueName": "Improve on the classifier algorithm",
+    "IssueUrl": "https://github.com/harshagr18/IPMV-Shape-Classifier/issues/1",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:10:33Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "harshagr18",
+    "RepoOwner": "harshagr18"
+  },
+  {
+    "IssueName": "Add algorithms to sample file",
+    "IssueUrl": "https://github.com/harshagr18/LeetCode/issues/2",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:09:27Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "harshagr18",
+    "RepoOwner": "harshagr18"
+  },
+  {
+    "IssueName": "Add algorithms to sample file",
+    "IssueUrl": "https://github.com/harshagr18/HackerRank-Solutions/issues/2",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:08:41Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "harshagr18",
+    "RepoOwner": "harshagr18"
+  },
+  {
+    "IssueName": "Add algorithms to sample file",
+    "IssueUrl": "https://github.com/harshagr18/SIESGSTarena-solutions/issues/3",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:07:33Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "harshagr18",
+    "RepoOwner": "harshagr18"
+  },
+  {
+    "IssueName": "Develop Frontend part for Pneumonia detection",
+    "IssueUrl": "https://github.com/Shubham-2007/Pneumonia_Detection/issues/5",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:04:52Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "Shubham-2007",
+    "RepoOwner": "Shubham-2007"
+  },
+  {
+    "IssueName": "Double-check package descriptions",
+    "IssueUrl": "https://github.com/digitalcoyote/chocolatey-packages/issues/27",
+    "IssueBody": "Keeping these packages up to date is made possible via automation. However, the descriptions are often cut out of the original projects readme files. For this I'm looking for PR's that correct descriptions that have changed for these projects. \n\nYou can look through the projects listed and compare the ReadMe to the description field in the corresponding nuspec file. I'll also accept updates to tags as long as the description has also changed.",
+    "IssueCreateDate": "2021-09-29T19:04:46Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "digitalcoyote",
+    "RepoOwner": "digitalcoyote"
+  },
+  {
+    "IssueName": "Develop API to deploy and use trained model",
+    "IssueUrl": "https://github.com/Shubham-2007/Pneumonia_Detection/issues/4",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:04:14Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "Shubham-2007",
+    "RepoOwner": "Shubham-2007"
+  },
+  {
+    "IssueName": "Train ResNet-50 Model on X-ray Dataset",
+    "IssueUrl": "https://github.com/Shubham-2007/Pneumonia_Detection/issues/3",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:03:35Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "Shubham-2007",
+    "RepoOwner": "Shubham-2007"
+  },
+  {
+    "IssueName": "Train VGG 19 Model on X-ray Dataset",
+    "IssueUrl": "https://github.com/Shubham-2007/Pneumonia_Detection/issues/2",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T19:02:57Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "Shubham-2007",
+    "RepoOwner": "Shubham-2007"
+  },
+  {
+    "IssueName": "Need to algorithms to the sample file",
+    "IssueUrl": "https://github.com/harshagr18/codechef-practice/issues/4",
+    "IssueBody": "Please add a few algorithms from the web to the sample file to receive a valid pull request!",
+    "IssueCreateDate": "2021-09-29T19:01:21Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "harshagr18",
+    "RepoOwner": "harshagr18"
+  },
+  {
+    "IssueName": "Add /about contributors command",
+    "IssueUrl": "https://github.com/Microsoft-community/Dotsimus/issues/161",
+    "IssueBody": "This command would show active code contributors, im not sure what would be an interesting way to show this, but getting this done would be cool so that everyone is aware that this is a team effort.",
+    "IssueCreateDate": "2021-09-29T18:58:08Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, Hacktoberfest",
+    "ReportingUser": "Jasius",
+    "RepoOwner": "Microsoft-community"
+  },
+  {
+    "IssueName": "Dark mode toggle button with dark mode implementation",
+    "IssueUrl": "https://github.com/SubhamKarmakar24/snake/issues/20",
+    "IssueBody": "A switch button to enable and disable dark mode. Also, the dark mode should be able to work on all the pages, and it should save its theme in local storage. If there is no theme set, use light mode by default.\r\nWhenever the website is opened next time, the previous theme should be used.",
+    "IssueCreateDate": "2021-09-29T18:57:54Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, help wanted, hacktoberfest, UI",
+    "ReportingUser": "SubhamKarmakar24",
+    "RepoOwner": "SubhamKarmakar24"
+  },
+  {
+    "IssueName": "3.x Documentation Request",
+    "IssueUrl": "https://github.com/digitalcoyote/NuGetDefense/issues/68",
+    "IssueBody": "I'd love to get some documentation started for the 3.x branch. Any PR's should be in the form of edits to the ReadMe on the 3.x branch or additional markdown files placed near the code they explain. Keep the formatting simple but use headers. If you have questions, just ask them here and I'll get back to you ASAP.\n\nMostly needed will be updates to the ReadMe regarding the new CLI and NuGetDefense.json settings. Pretty open ended an I'll accept any PR that passes a basic quality check (accuracy and readability). \n\nAll documentation on a single subject should be in the same PR. Multiple PR's to the same file from the same user may be considered SPAM.\n\n",
+    "IssueCreateDate": "2021-09-29T18:54:08Z",
+    "LabelCount": 2,
+    "Labels": "documentation, Hacktoberfest",
+    "ReportingUser": "digitalcoyote",
+    "RepoOwner": "digitalcoyote"
+  },
+  {
+    "IssueName": "Better UI to make it feel modern",
+    "IssueUrl": "https://github.com/SubhamKarmakar24/snake/issues/19",
+    "IssueBody": "Use [Materialize CSS](https://materializecss.com/) to enhance the components used in the website like buttons, hover effect, etc.",
+    "IssueCreateDate": "2021-09-29T18:54:08Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, good first issue, hacktoberfest, UI",
+    "ReportingUser": "SubhamKarmakar24",
+    "RepoOwner": "SubhamKarmakar24"
+  },
+  {
+    "IssueName": "Add API Service Account",
+    "IssueUrl": "https://github.com/rizalgowandy/jenius-go/issues/2",
+    "IssueBody": "https://developers.btpn.com/api-documentation\r\n- Info\r\n- Balance\r\n- Balance for Syariah\r\n- Transaction History",
+    "IssueCreateDate": "2021-09-29T18:52:30Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "rizalgowandy",
+    "RepoOwner": "rizalgowandy"
+  },
+  {
+    "IssueName": "Instructions tab -> Snake autoplay algorithm",
+    "IssueUrl": "https://github.com/SubhamKarmakar24/snake/issues/18",
+    "IssueBody": "Presently, a very simple algorithm is used to make the snake play automatically. Better algorithm can be used to make the snake not die soon.\r\n\r\nUse AI algorithms to make the snake move optimally.",
+    "IssueCreateDate": "2021-09-29T18:51:37Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, hacktoberfest",
+    "ReportingUser": "SubhamKarmakar24",
+    "RepoOwner": "SubhamKarmakar24"
+  },
+  {
+    "IssueName": "UI in Mobile Screens",
+    "IssueUrl": "https://github.com/SubhamKarmakar24/snake/issues/17",
+    "IssueBody": "Should support all types of screen sizes.\r\nUse media query to implement responsiveness.\r\nAlready using [Materialize CSS](https://materializecss.com/), so using this to make responsive website would help",
+    "IssueCreateDate": "2021-09-29T18:50:01Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, good first issue, hacktoberfest, UI",
+    "ReportingUser": "SubhamKarmakar24",
+    "RepoOwner": "SubhamKarmakar24"
+  },
+  {
+    "IssueName": "Add InfluxDB",
+    "IssueUrl": "https://github.com/rizalgowandy/docker-sample/issues/3",
+    "IssueBody": "https://www.influxdata.com/",
+    "IssueCreateDate": "2021-09-29T18:47:03Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "rizalgowandy",
+    "RepoOwner": "rizalgowandy"
+  },
+  {
+    "IssueName": "Remove browser alert to make a cool popup",
+    "IssueUrl": "https://github.com/SubhamKarmakar24/snake/issues/16",
+    "IssueBody": "Alerts are boring!! Instead a Javascript controlled popup which is dismissible once the user presses the close button or clicks outside the box. Some cool CSS with animations for this popup is highly appreciable.",
+    "IssueCreateDate": "2021-09-29T18:47:01Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, good first issue, hacktoberfest, UI",
+    "ReportingUser": "SubhamKarmakar24",
+    "RepoOwner": "SubhamKarmakar24"
+  },
+  {
+    "IssueName": "Implement Array.prototype.at()",
+    "IssueUrl": "https://github.com/boa-dev/boa/issues/1596",
+    "IssueBody": "<!--\r\nThank you for adding a feature request to Boa! As this is an experimental JavaScript engine, there will probably be many ECMAScript features left to implement. In order to understand the feature request as best as possible, please fill the following template. Feel free to add or remove sections as needed.\r\n-->\r\n\r\n**ECMASCript feature**\r\nhttps://tc39.es/ecma262/#sec-array.prototype.at\r\n\r\n**Example code**\r\nThis is the same feature added for String.prototype.at() - https://github.com/boa-dev/boa/pull/1375\r\n\r\nThis code should now work and give the expected result:\r\n```javascript\r\nconst arr1 = [1,5,6,2];\r\narr1.at(-1) // 2\r\n```\r\nThe expected output is `2`.\r\n\r\n",
+    "IssueCreateDate": "2021-09-29T18:46:55Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, good first issue, Hacktoberfest, E-Easy",
+    "ReportingUser": "jasonwilliams",
+    "RepoOwner": "boa-dev"
+  },
+  {
+    "IssueName": "Add YugabyteDB",
+    "IssueUrl": "https://github.com/rizalgowandy/docker-sample/issues/2",
+    "IssueBody": "https://www.yugabyte.com/",
+    "IssueCreateDate": "2021-09-29T18:46:04Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "rizalgowandy",
+    "RepoOwner": "rizalgowandy"
+  },
+  {
+    "IssueName": "Add ScyllaDB",
+    "IssueUrl": "https://github.com/rizalgowandy/docker-sample/issues/1",
+    "IssueBody": "https://www.scylladb.com/",
+    "IssueCreateDate": "2021-09-29T18:45:17Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "rizalgowandy",
+    "RepoOwner": "rizalgowandy"
+  },
+  {
+    "IssueName": "Rework Vulnerability Days for Readability",
+    "IssueUrl": "https://github.com/digitalcoyote/NuGetDefense/issues/67",
+    "IssueBody": "**What is the Feature? Please describe.**\nIt's not clear what the key is in the dictionaries without looking further into NuGetDefense. This needs to be reworked for anyone using NuGetDefense programmatically. It should also increase maintainability of NuGetDefense itself.\n",
+    "IssueCreateDate": "2021-09-29T18:42:34Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, Hacktoberfest",
+    "ReportingUser": "digitalcoyote",
+    "RepoOwner": "digitalcoyote"
+  },
+  {
+    "IssueName": "Migrate all stylus styles to sass",
+    "IssueUrl": "https://github.com/bitcartcc/bitcart-store/issues/316",
+    "IssueBody": "We currently have at least 2 style engines utilized: sass and stylus. There is no need in stylus as we have sass already. We need to migrate all styles to sass to be able to customize theme colors in the future\r\nSome examples:\r\nhttps://github.com/bitcartcc/bitcart-store/blob/ca1ba4e8d782999c9c02e46fbddf9ec806dd6bfb/components/Switch.vue#L24-L26\r\nhttps://github.com/bitcartcc/bitcart-store/blob/8909d56c7c2cf431ae93e8b97958a418cd3aa366/pages/index.vue#L53-L68\r\nhttps://github.com/bitcartcc/bitcart-store/blob/8909d56c7c2cf431ae93e8b97958a418cd3aa366/components/Sidebar.vue#L64-L101\r\n\r\nAlso any improvements to the existing files are welcome!",
+    "IssueCreateDate": "2021-09-29T18:22:19Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, good first issue, hacktoberfest",
+    "ReportingUser": "MrNaif2018",
+    "RepoOwner": "bitcartcc"
+  },
+  {
+    "IssueName": "Updates",
+    "IssueUrl": "https://github.com/quentangled/tpage.github.io/pull/3",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T18:21:45Z",
+    "LabelCount": 2,
+    "Labels": "hacktoberfest, hacktoberfest-accepted",
+    "ReportingUser": "purvikuhi",
+    "RepoOwner": "quentangled"
+  },
+  {
+    "IssueName": "Add autofill to the dashboard console",
+    "IssueUrl": "https://github.com/CatalysmsServerManager/7-days-to-die-server-manager/issues/885",
+    "IssueBody": "This will release the necessity of memorizing commands. This system will help you enter the variables.\r\n![image](https://user-images.githubusercontent.com/80421234/128963856-fb77600e-a1c4-4f86-8c18-e3363026273e.png)",
+    "IssueCreateDate": "2021-09-29T18:20:35Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, hacktoberfest",
+    "ReportingUser": "niekcandaele",
+    "RepoOwner": "CatalysmsServerManager"
+  },
+  {
+    "IssueName": "Add add/remove buttons to player balance editor",
+    "IssueUrl": "https://github.com/CatalysmsServerManager/7-days-to-die-server-manager/issues/884",
+    "IssueBody": "This will allow admins to send currency on the go rather than having to pull out a calculator and adding the total as the current system forces us to.\r\n![image](https://user-images.githubusercontent.com/80421234/128963846-557dd4c2-4229-4c37-9389-5328922cfd7f.png)",
+    "IssueCreateDate": "2021-09-29T18:20:16Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, hacktoberfest",
+    "ReportingUser": "niekcandaele",
+    "RepoOwner": "CatalysmsServerManager"
+  },
+  {
+    "IssueName": "Easier access to player actions from the server dashboard",
+    "IssueUrl": "https://github.com/CatalysmsServerManager/7-days-to-die-server-manager/issues/883",
+    "IssueBody": "This will allow us to just select the players and apply the actions on the go.\r\n![image](https://user-images.githubusercontent.com/80421234/128963835-7dc1a612-ea9f-407f-920f-f3a9106cbc05.png)",
+    "IssueCreateDate": "2021-09-29T18:19:46Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, hacktoberfest",
+    "ReportingUser": "niekcandaele",
+    "RepoOwner": "CatalysmsServerManager"
+  },
+  {
+    "IssueName": "Evaluate options that will work with netboot.xyz and RPI4",
+    "IssueUrl": "https://github.com/netbootxyz/netboot.xyz/issues/1017",
+    "IssueBody": "Evaluate working Linux distros on Raspberry Pi to see if any work, update docs.\r\n\r\nThe project has a working Raspberry Pi image will work via USB or SD card and pull up the arm64 options using the pipxe project.  Evaluate which options work and don't and raise upstream issues depending on behaviors.\r\n\r\nMay need to pull in the latest dependencies into pipxe to make sure we have all the latest fixes.",
+    "IssueCreateDate": "2021-09-29T18:16:21Z",
+    "LabelCount": 2,
+    "Labels": "investigate, Hacktoberfest",
+    "ReportingUser": "antonym",
+    "RepoOwner": "netbootxyz"
+  },
+  {
+    "IssueName": "News should be paginated",
+    "IssueUrl": "https://github.com/italia/developers.italia.it/issues/1067",
+    "IssueBody": "The news index at https://developers.italia.it/it/news/ displays only 20 news posts, despite having [more than that in the source](https://github.com/italia/developers.italia.it/tree/master/_posts/it). We should paginate that index to link all the news.",
+    "IssueCreateDate": "2021-09-29T18:11:10Z",
+    "LabelCount": 5,
+    "Labels": "enhancement, help wanted, Hacktoberfest, good-first-issue, feature-request",
+    "ReportingUser": "bfabio",
+    "RepoOwner": "italia"
+  },
+  {
+    "IssueName": "Feature: upgrade Oruga version",
+    "IssueUrl": "https://github.com/oruga-ui/demo-multiframework/issues/1",
+    "IssueBody": "Upgrade Oruga version in dependencies and see if everything's ok!",
+    "IssueCreateDate": "2021-09-29T18:06:43Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "astagi",
+    "RepoOwner": "oruga-ui"
+  },
+  {
+    "IssueName": "Feature: upgrade Oruga version",
+    "IssueUrl": "https://github.com/oruga-ui/demo-tailwindcss/issues/2",
+    "IssueBody": "Upgrade Oruga version in dependencies and see if everything's ok!",
+    "IssueCreateDate": "2021-09-29T18:06:13Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, hacktoberfest",
+    "ReportingUser": "astagi",
+    "RepoOwner": "oruga-ui"
+  },
+  {
+    "IssueName": "Can we show date along the X axis on the conformance tests? ",
+    "IssueUrl": "https://github.com/boa-dev/boa/issues/1595",
+    "IssueBody": "Looking at the graph on https://boa-dev.github.io/boa/test262/# its not easy to know what time the test represent. It would be nice to show the years along the bottom or something to know how far back these results are showing.\r\n\r\nExample below:\r\n![image](https://user-images.githubusercontent.com/936006/135323878-35a9b62f-d15b-4b9d-b3c7-fb2fb7e2959b.png)\r\n\r\nLooking at the [data](https://github.com/boa-dev/boa/blob/gh-pages/test262/refs/heads/master/results.json) it seems only the commit is stored, so for backdating we may need to run a script which returns the datetime for each commit. Each item in that JSON should also have an ISO date field for past and future additions",
+    "IssueCreateDate": "2021-09-29T18:05:11Z",
+    "LabelCount": 4,
+    "Labels": "bug, Hacktoberfest, E-Medium, github_actions",
+    "ReportingUser": "jasonwilliams",
+    "RepoOwner": "boa-dev"
+  },
+  {
+    "IssueName": "Update Documentation | Start Here",
+    "IssueUrl": "https://github.com/Call-for-Code-for-Racial-Justice/Hacktoberfest/issues/2",
+    "IssueBody": "## Background\r\n\r\nThis issue provides directions on how you can contribute to our projects by updating our documentation. Please keep this issue open.\r\n\r\nYou can make both technical and non-technical updates to documentation. \r\n\r\n## Tasks\r\n\r\n- [ ] Check out the open documentation issues\r\n- [ ] Read & follow the instructions in the Getting Started section of the readme.md to set the solution up (find projects[ here](https://call-for-code-for-racial-justice.github.io/Hacktoberfest/#/projects/legit-info)) \r\n\r\nIf any directions are unclear, outdated, and are not addressed in [open documentation issues](https://github.com/search?q=user%3Acall-for-code-for-racial-justice+label%3Ahacktoberfest+label%3Adocumentation&type=Issues): \r\n- [ ] create a new issue using the documentation template\r\n- [ ] label it 'hacktoberfest', 'documentation' assign the issue to yourself,\r\n- [ ] Discuss your changes in the issue \r\n\r\nOnce your documentation idea is approved\r\n- [ ] update the readme.md file with your changes\r\n- [ ] submit a pull request to main branch\r\n- [ ] PR merged by team\r\n- [ ] Congratulations! \r\n\r\nIf you are unfamilar with pull requests, committing code on Github, we recommend you check out our free course on open source: [ibm.biz/opensourcecourse](ibm.biz/opensourcecourse)",
+    "IssueCreateDate": "2021-09-29T18:04:56Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "demilolu",
+    "RepoOwner": "Call-for-Code-for-Racial-Justice"
+  },
+  {
+    "IssueName": "Fix bug where title of issues go outside the card",
+    "IssueUrl": "https://github.com/hacktoberfest-finder/hacktoberfest-finder/issues/214",
+    "IssueBody": "![image](https://user-images.githubusercontent.com/19637309/135323230-0264fd7f-2d32-4796-8f49-0332beef1b02.png)\r\n\r\nhttps://hacktoberfest-finder.netlify.app/\r\n\r\nMost likely something CSS wise that need's changed... we're using Tailwind CSS on this project.",
+    "IssueCreateDate": "2021-09-29T17:57:34Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "duncanmcclean",
+    "RepoOwner": "hacktoberfest-finder"
+  },
+  {
+    "IssueName": "Add LeetCode 1684. Count the Number of Consistent Strings",
+    "IssueUrl": "https://github.com/Tahanima/leetcode-solution-curation/issues/70",
+    "IssueBody": "[Problem Link](https://leetcode.com/problems/count-the-number-of-consistent-strings/)",
+    "IssueCreateDate": "2021-09-29T17:57:17Z",
+    "LabelCount": 3,
+    "Labels": "easy, algorithms, hacktoberfest",
+    "ReportingUser": "Tahanima",
+    "RepoOwner": "Tahanima"
+  },
+  {
+    "IssueName": "Add LeetCode 1588. Sum of All Odd Length Subarrays",
+    "IssueUrl": "https://github.com/Tahanima/leetcode-solution-curation/issues/69",
+    "IssueBody": "[Problem Link](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)",
+    "IssueCreateDate": "2021-09-29T17:56:42Z",
+    "LabelCount": 3,
+    "Labels": "easy, algorithms, hacktoberfest",
+    "ReportingUser": "Tahanima",
+    "RepoOwner": "Tahanima"
+  },
+  {
+    "IssueName": "Update list of sponsors in footer",
+    "IssueUrl": "https://github.com/hacktoberfest-finder/hacktoberfest-finder/issues/213",
+    "IssueBody": "The footer of the site needs to be updated with the up-to-date list of sponsors.\r\n\r\nhttps://hacktoberfest-finder.netlify.app/\r\n\r\n_(don't do this until October or it won't count towards your PRs)_",
+    "IssueCreateDate": "2021-09-29T17:56:25Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "duncanmcclean",
+    "RepoOwner": "hacktoberfest-finder"
+  },
+  {
+    "IssueName": "Add LeetCode 1732. Find the Highest Altitude",
+    "IssueUrl": "https://github.com/Tahanima/leetcode-solution-curation/issues/68",
+    "IssueBody": "[Problem Link](https://leetcode.com/problems/find-the-highest-altitude/)",
+    "IssueCreateDate": "2021-09-29T17:55:33Z",
+    "LabelCount": 3,
+    "Labels": "easy, algorithms, hacktoberfest",
+    "ReportingUser": "Tahanima",
+    "RepoOwner": "Tahanima"
+  },
+  {
+    "IssueName": "Add LeetCode 1748. Sum of Unique Elements",
+    "IssueUrl": "https://github.com/Tahanima/leetcode-solution-curation/issues/67",
+    "IssueBody": "[Problem Link](https://leetcode.com/problems/sum-of-unique-elements/)",
+    "IssueCreateDate": "2021-09-29T17:54:58Z",
+    "LabelCount": 3,
+    "Labels": "easy, algorithms, hacktoberfest",
+    "ReportingUser": "Tahanima",
+    "RepoOwner": "Tahanima"
+  },
+  {
+    "IssueName": "Add LeetCode 1827. Minimum Operations to Make the Array Increasing",
+    "IssueUrl": "https://github.com/Tahanima/leetcode-solution-curation/issues/66",
+    "IssueBody": "[Problem Link](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)",
+    "IssueCreateDate": "2021-09-29T17:54:24Z",
+    "LabelCount": 3,
+    "Labels": "easy, algorithms, hacktoberfest",
+    "ReportingUser": "Tahanima",
+    "RepoOwner": "Tahanima"
+  },
+  {
+    "IssueName": "Update 'Hacktoberfest Finder' with 2021 Branding ",
+    "IssueUrl": "https://github.com/hacktoberfest-finder/hacktoberfest-finder/issues/212",
+    "IssueBody": "[Hacktoberfest Finder](https://hacktoberfest-finder.netlify.app) needs to be updated to fit with the new 2021 branding.\r\n\r\n_(don't do this until October or it won't count towards your PRs)_",
+    "IssueCreateDate": "2021-09-29T17:54:07Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "duncanmcclean",
+    "RepoOwner": "hacktoberfest-finder"
+  },
+  {
+    "IssueName": "Create CRUD operations for Event",
+    "IssueUrl": "https://github.com/dbarrerap/ReservationsAPI/issues/4",
+    "IssueBody": "* A registered EstablishmentContact can create an Event. Sends a notification to EstablishmentContact with Role Manager to approve.\r\n* A registered EstablishmentContact with Role Manager can delete an Event.\r\n* A registered EstablishmentContact can list all Events related to its Establishment.\r\n* A registered EstablishmentContact can update all Events related to its Establishment. Send a notification to EstablishmentContact with Role Manager to approve.",
+    "IssueCreateDate": "2021-09-29T17:53:20Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "dbarrerap",
+    "RepoOwner": "dbarrerap"
+  },
+  {
+    "IssueName": "Add LeetCode 1863. Sum of All Subset XOR Totals",
+    "IssueUrl": "https://github.com/Tahanima/leetcode-solution-curation/issues/65",
+    "IssueBody": "[Problem Link](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)",
+    "IssueCreateDate": "2021-09-29T17:53:05Z",
+    "LabelCount": 3,
+    "Labels": "easy, algorithms, hacktoberfest",
+    "ReportingUser": "Tahanima",
+    "RepoOwner": "Tahanima"
+  },
+  {
+    "IssueName": "Creating and improving tpage ",
+    "IssueUrl": "https://github.com/quentangled/tpage.github.io/issues/1",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T17:48:11Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "quentangled",
+    "RepoOwner": "quentangled"
+  },
+  {
+    "IssueName": "GitHub Actions Workflow to Build and Test on Pull Request and main branch",
+    "IssueUrl": "https://github.com/SPSCommerce/nap/issues/10",
+    "IssueBody": "We'd like confidence that the changes proposed in pull requests successfully build and run against the current test suite. Additionally, running the same workflow on the main branch ensures that the integration of changes was successful.",
+    "IssueCreateDate": "2021-09-29T17:41:08Z",
+    "LabelCount": 2,
+    "Labels": "help wanted, hacktoberfest",
+    "ReportingUser": "jesselang",
+    "RepoOwner": "SPSCommerce"
+  },
+  {
+    "IssueName": "Add recommended products section in cart page (content based recommendation engine)",
+    "IssueUrl": "https://github.com/sudhay23/ShopOnline-Web-App/issues/15",
+    "IssueBody": "#### Current Behavior\r\nProducts list is static, not personalised to user\r\n#### Desired Behavior\r\nAdd a </section> in cart page which displays product recommendations based on products that user has added to cart, we plan to leverage AWS personalise service in future, until then, this would be a good fix\r\n",
+    "IssueCreateDate": "2021-09-29T17:39:43Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, help wanted, hacktoberfest",
+    "ReportingUser": "san-coding",
+    "RepoOwner": "sudhay23"
+  },
+  {
+    "IssueName": "Fix SonarCloud issues",
+    "IssueUrl": "https://github.com/zerasul/blask/issues/207",
+    "IssueBody": "Fix some SonarCloud Issues:\r\n\r\nhttps://sonarcloud.io/project/issues?id=blask-project-key&resolved=false&types=CODE_SMELL",
+    "IssueCreateDate": "2021-09-29T17:39:32Z",
+    "LabelCount": 2,
+    "Labels": "refactoring, hacktoberfest",
+    "ReportingUser": "zerasul",
+    "RepoOwner": "zerasul"
+  },
+  {
+    "IssueName": "Mailing Lists: Vulnerability Reports",
+    "IssueUrl": "https://github.com/meshery/meshery.io/issues/567",
+    "IssueBody": "**Current State of the Meshery.io site**\r\nON the mailing list page, https://meshery.io/subscribe, the vulnerability list has a subscribe button.\r\n\r\n<img width=\"594\" alt=\"Screen Shot 2021-09-29 at 12 34 38 PM\" src=\"https://user-images.githubusercontent.com/7570704/135320399-19e821df-12a4-4c0a-96d9-88a2a0d9ed72.png\">\r\n\r\n\r\n**Desired State of the Meshery.io site**\r\nthe vulnerability mailer is not to be subscribed to, but for security issues to be sent to.\r\n\r\nThe purpose of the mailer should be updated and reference to this page should be made - https://docs.meshery.io/project/security-vulnerabilities \r\n\r\n---\r\n### Contributor Resources\r\n\r\nThe meshery.io website uses Jekyll and GitHub Pages. Site content is found under the [`master` branch](https://github.com/meshery/meshery.io/tree/master).\r\n- See the [Contributing to Meshery.io Website](https://github.com/meshery/meshery.io#contributing-to-the-mesheryio-website) section of the readme.md and other [contributing instructions](https://docs.meshery.io/project/contributing), too.\r\n- See Meshery site designs in this [Figma designfile](https://www.figma.com/file/SMP3zxOjZztdOLtgN4dS2W/Meshery-UI?node-id=110%3A1). Fill-in the [Layer5 Community Member Form](https://layer5.io/newcomer) and join the [Layer5 Community Slack](http://slack.layer5.io) for access.\r\n",
+    "IssueCreateDate": "2021-09-29T17:38:17Z",
+    "LabelCount": 4,
+    "Labels": "good first issue, help wanted, hacktoberfest, area/website",
+    "ReportingUser": "leecalcote",
+    "RepoOwner": "meshery"
+  },
+  {
+    "IssueName": "Add Contact us page",
+    "IssueUrl": "https://github.com/sudhay23/ShopOnline-Web-App/issues/14",
+    "IssueBody": "#### Current Behavior\r\nThere is no contact page\r\n#### Desired Behavior\r\nAdd `contact us` page with relevant social media and GitHub repo links, you can also automate and send out an email if a person clicks on any of the links\r\n",
+    "IssueCreateDate": "2021-09-29T17:35:13Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, help wanted, good first issue, hacktoberfest",
+    "ReportingUser": "san-coding",
+    "RepoOwner": "sudhay23"
+  },
+  {
+    "IssueName": "Feature: make it working on Vue3",
+    "IssueUrl": "https://github.com/oruga-ui/vue-telescope-expo/issues/1",
+    "IssueBody": "Provide scripts to build Vue Telescope Expo component working on Vue3. \r\n\r\n[Vue-Demi](https://github.com/vueuse/vue-demi) may help you!",
+    "IssueCreateDate": "2021-09-29T17:33:06Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "astagi",
+    "RepoOwner": "oruga-ui"
+  },
+  {
+    "IssueName": "Procedure numbering incorrectly restarts",
+    "IssueUrl": "https://github.com/openshift/openshift-docs/issues/36920",
+    "IssueBody": "<!--\r\nPlease submit only documentation-related issues with this form, or follow the\r\nContribute to OpenShift guidelines (https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/contributing.adoc) to submit a PR.\r\n-->\r\n\r\n### Which section(s) is the issue in?\r\n\r\nSpecifying how a service is monitored: https://docs.openshift.com/container-platform/4.8/monitoring/managing-metrics.html#specifying-how-a-service-is-monitored_managing-metrics\r\n\r\n### What needs fixing?\r\n\r\nThe procedure numbering is off. After step 2, the numbering restarts at 1:\r\n\r\n![image](https://user-images.githubusercontent.com/7443887/135319460-7aafe2d8-f498-456f-a465-49e8bbb6270f.png)\r\n\r\nI believe that the NOTE after step 2 is the culprit. It likely just needs a \"+\" continuation character on the line before the note, so that the note is indented properly with step 2.",
+    "IssueCreateDate": "2021-09-29T17:33:03Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "bergerhoffer",
+    "RepoOwner": "openshift"
+  },
+  {
+    "IssueName": "Add support for submitting ProjectQ circuits to Azure Quantum",
+    "IssueUrl": "https://github.com/microsoft/qdk-python/issues/152",
+    "IssueBody": "Similar to our Qiskit and Cirq plugins, add a plugin for ProjectQ.\r\n\r\nUseful resources:\r\n\r\n- https://ionq.com/docs/get-started-with-projectq\r\n- https://projectq.readthedocs.io/_/downloads/en/latest/pdf/\r\n\r\n`projectq.backends.CommandPrinter().get_qasm()`",
+    "IssueCreateDate": "2021-09-29T17:31:46Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, help wanted, Hacktoberfest",
+    "ReportingUser": "guenp",
+    "RepoOwner": "microsoft"
+  },
+  {
+    "IssueName": "Feature: create packaging",
+    "IssueUrl": "https://github.com/oruga-ui/oruga-bulma/issues/2",
+    "IssueBody": "This repository aims to bring a default configuration to use Oruga components with [Bulma](https://bulma.io/) styles.\r\n\r\nWe need some help to \r\n\r\n- create build scripts\r\n- reorganize code\r\n- reorganize dependencies \r\n\r\nto make it ready to be built as a NPM package.",
+    "IssueCreateDate": "2021-09-29T17:29:37Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "astagi",
+    "RepoOwner": "oruga-ui"
+  },
+  {
+    "IssueName": "[CONTRIBUTION]: Teachers table",
+    "IssueUrl": "https://github.com/CodXCrypt/Exam-Portal/issues/8",
+    "IssueBody": "Work on the Teachers table according to [Design](https://github.com/CodXCrypt/Exam-Portal/blob/main/docs/dbmodels/DB%20Design%20I.png)\r\n\r\n- [ ] Create model parameters according to design\r\n- [ ] Reference Classes\r\n- [ ] Inherit Contact",
+    "IssueCreateDate": "2021-09-29T17:28:48Z",
+    "LabelCount": 4,
+    "Labels": "good first issue, help wanted, hacktoberfest, back-end",
+    "ReportingUser": "AbhijithGanesh",
+    "RepoOwner": "CodXCrypt"
+  },
+  {
+    "IssueName": "[CONTRIBUTION]: Work on table Contact",
+    "IssueUrl": "https://github.com/CodXCrypt/Exam-Portal/issues/7",
+    "IssueBody": "Work on the table contacts ,  according to Database Schema:\r\n\r\n- [ ] Name\r\n- [ ] Contact Number\r\n- [ ] Email\r\n- [ ] Unique ID\r\n- [ ] Reference it to Teacher\r\n- [ ] Reference it to Student",
+    "IssueCreateDate": "2021-09-29T17:26:29Z",
+    "LabelCount": 5,
+    "Labels": "enhancement, good first issue, help wanted, hacktoberfest, back-end",
+    "ReportingUser": "AbhijithGanesh",
+    "RepoOwner": "CodXCrypt"
+  },
+  {
+    "IssueName": "[CONTRIBUTION]: Work on table Student",
+    "IssueUrl": "https://github.com/CodXCrypt/Exam-Portal/issues/6",
+    "IssueBody": "### What do you want to see happening?\n\nWork on the model students.\r\n\r\n- [ ] Reference UniqueClass ID\n\n### Relevant log output\n\n_No response_",
+    "IssueCreateDate": "2021-09-29T17:24:22Z",
+    "LabelCount": 4,
+    "Labels": "good first issue, help wanted, hacktoberfest, back-end",
+    "ReportingUser": "AbhijithGanesh",
+    "RepoOwner": "CodXCrypt"
+  },
+  {
+    "IssueName": "Bug: add missing Tailwind logo",
+    "IssueUrl": "https://github.com/oruga-ui/demo-tailwindcss/issues/1",
+    "IssueBody": "![image](https://user-images.githubusercontent.com/537363/135317673-62e63da7-375b-4b91-b83a-e58128d5238e.png)\r\n\r\nTailwind logo is disappeared, you need to bring it back on the navigation bar. To do that:\r\n\r\n- Insert a new Tailwind logo inside the project\r\n- Load and show it inside the page\r\n\r\nBe sure that the logo you use has no legal complications. ",
+    "IssueCreateDate": "2021-09-29T17:21:47Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "astagi",
+    "RepoOwner": "oruga-ui"
+  },
+  {
+    "IssueName": "App uses deprecated version of the splash screen",
+    "IssueUrl": "https://github.com/Routinger/routinger/issues/10",
+    "IssueBody": "**Is your feature request related to a problem? Please describe.**\r\nThe app uses a deprecated version of the splash screen which may be removed in the coming versions of flutter.\r\n\r\n**Describe the solution you'd like**\r\nUsing a package to manage flutter splash screen.\r\n\r\n**Describe alternatives you've considered**\r\nUsing flutter migration of splash screen tips.\r\n\r\n**Additional context**\r\n--Nope--\r\n",
+    "IssueCreateDate": "2021-09-29T17:21:44Z",
+    "LabelCount": 2,
+    "Labels": "enhancement, Hacktoberfest",
+    "ReportingUser": "Kushalrock",
+    "RepoOwner": "Routinger"
+  },
+  {
+    "IssueName": "Improve Vietnamese translation",
+    "IssueUrl": "https://github.com/UPC/ravada/issues/1591",
+    "IssueBody": "Vietnamese translation is 3 years old, it needs a proper review and it is 88% translated only. \r\nhttps://hosted.weblate.org/projects/ravada/translation/vi/",
+    "IssueCreateDate": "2021-09-29T17:19:43Z",
+    "LabelCount": 2,
+    "Labels": "hacktoberfest, localization",
+    "ReportingUser": "frankiejol",
+    "RepoOwner": "UPC"
+  },
+  {
+    "IssueName": "[Help Wanted] Cloud Migration (Deploy application on AWS EC2) ",
+    "IssueUrl": "https://github.com/sudhay23/ShopOnline-Web-App/issues/13",
+    "IssueBody": "#### Current Behavior\r\nApplication is not deployed on cloud, we are facing some issue with connecting to mySQL database running inside the EC2 instance , we are using Apache XAMPP web server\r\n#### Desired Behavior\r\nHelp us connect to the mySQL database inside the EC2 instance or setup and move the data to AWS- RDS (Amazon Relational Database Service)",
+    "IssueCreateDate": "2021-09-29T17:14:58Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, help wanted, hacktoberfest",
+    "ReportingUser": "san-coding",
+    "RepoOwner": "sudhay23"
+  },
+  {
+    "IssueName": "Missing source in code blocks in limit ranges",
+    "IssueUrl": "https://github.com/openshift/openshift-docs/issues/36918",
+    "IssueBody": "<!--\r\nPlease submit only documentation-related issues with this form, or follow the\r\nContribute to OpenShift guidelines (https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/contributing.adoc) to submit a PR.\r\n-->\r\n\r\n### Which section(s) is the issue in?\r\n\r\nRestrict resource consumption with limit ranges: https://docs.openshift.com/container-platform/4.8/nodes/clusters/nodes-cluster-limit-ranges.html\r\n\r\n### What needs fixing?\r\n\r\nA few modules in this limit ranges assembly have code blocks that are missing the source specification. They need to have `[source,terminal]` added above the code block, like:\r\n\r\n```\r\n[source,terminal]\r\n----\r\n// command\r\n----\r\n```\r\n\r\n- https://docs.openshift.com/container-platform/4.8/nodes/clusters/nodes-cluster-limit-ranges.html#nodes-cluster-limit-creating_nodes-cluster-limit-ranges, step 2 needs [source,terminal]\r\n- https://docs.openshift.com/container-platform/4.8/nodes/clusters/nodes-cluster-limit-ranges.html#nodes-cluster-limit-viewing_nodes-cluster-limit-ranges, all 4 code blocks need [source,terminal]\r\n- https://docs.openshift.com/container-platform/4.8/nodes/clusters/nodes-cluster-limit-ranges.html#nodes-cluster-limit-ranges-deleting_nodes-cluster-limit-ranges, code block needs [source,terminal]\r\n",
+    "IssueCreateDate": "2021-09-29T17:14:51Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "bergerhoffer",
+    "RepoOwner": "openshift"
+  },
+  {
+    "IssueName": "Create CRUD operations for Establishment",
+    "IssueUrl": "https://github.com/dbarrerap/ReservationsAPI/issues/3",
+    "IssueBody": "* An Establishment can register itself on the Web Application.\r\n* An Establishment can register an EstablishmentContact (One or Many).\r\n* An Establishment can register an Event (One or Many).\r\n* An Establishment can edit its own details.\r\n* An Establishment cannot view details of any other Establishment.\r\n* An Establishment cannot list Providers.\r\n* An Establishment can delete itself from the Web Application.",
+    "IssueCreateDate": "2021-09-29T17:13:59Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "dbarrerap",
+    "RepoOwner": "dbarrerap"
+  },
+  {
+    "IssueName": "YAML source missing for code blocks",
+    "IssueUrl": "https://github.com/openshift/openshift-docs/issues/36917",
+    "IssueBody": "<!--\r\nPlease submit only documentation-related issues with this form, or follow the\r\nContribute to OpenShift guidelines (https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/contributing.adoc) to submit a PR.\r\n-->\r\n\r\n### Which section(s) is the issue in?\r\n\r\nInstalling the Cluster Resource Override Operator using the web console: https://docs.openshift.com/container-platform/4.8/nodes/clusters/nodes-cluster-overcommit.html#nodes-cluster-resource-override-deploy-console_nodes-cluster-overcommit\r\n\r\n### What needs fixing?\r\n\r\nSteps 3 and 4 have code blocks with YAML in them, but the source isn't specified as YAML, so it's not being highlighted. Above the code block for each of these, we need to add `[source,yaml]` so that the YAML is colored/highlighted properly.\r\n\r\nOnce that is added, the code block should be colored, like this example is:\r\n\r\n![image](https://user-images.githubusercontent.com/7443887/135316542-d403a517-b37f-4bba-84e0-e753cc8fa3e7.png)\r\n",
+    "IssueCreateDate": "2021-09-29T17:10:06Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "bergerhoffer",
+    "RepoOwner": "openshift"
+  },
+  {
+    "IssueName": "Front end is not showing any information ",
+    "IssueUrl": "https://github.com/mohittk/space-voyager/issues/5",
+    "IssueBody": "I have tried using the app and the front end for some reason is broken ,  I can work on this issue \r\n\r\n## suggestion\r\nI would highly suggest adding an *enter* button as it is a good approach from a UX point of view.\r\nI would love to work on this issue \r\n\r\n## screenshot of the bug \r\n![Uploading Screenshot from 2021-09-29 22-02-22.png\u2026]()\r\n",
+    "IssueCreateDate": "2021-09-29T17:06:42Z",
+    "LabelCount": 3,
+    "Labels": "bug, Hacktoberfest, hacktoberfest 2021",
+    "ReportingUser": "roshaan005",
+    "RepoOwner": "mohittk"
+  },
+  {
+    "IssueName": "Melhorar descri\u00e7\u00e3o da comunidade Elas@Computa\u00e7\u00e3o",
+    "IssueUrl": "https://github.com/ielepassos/comunidades-TI/issues/1",
+    "IssueBody": "A descri\u00e7\u00e3o do Elas@computa\u00e7\u00e3o est\u00e1 muito vaga.",
+    "IssueCreateDate": "2021-09-29T17:02:19Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "ielepassos",
+    "RepoOwner": "ielepassos"
+  },
+  {
+    "IssueName": "Help us setup Github Actions (Continuous Integration / Build Checks) for this awesome repository",
+    "IssueUrl": "https://github.com/sudhay23/ShopOnline-Web-App/issues/12",
+    "IssueBody": "#### Current Behavior\r\nThere are not automated Continuous Integration / Build  checks\r\n#### Desired Behavior\r\nHelp us setup automated CI checks (Compile checks,Formatting checks etc) using GitHub actions",
+    "IssueCreateDate": "2021-09-29T16:59:47Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, help wanted, hacktoberfest",
+    "ReportingUser": "san-coding",
+    "RepoOwner": "sudhay23"
+  },
+  {
+    "IssueName": "Create CRUD operations for User.",
+    "IssueUrl": "https://github.com/dbarrerap/ReservationsAPI/issues/2",
+    "IssueBody": "* A User can register itself to the Web Application.\r\n* A User can edit its own details\r\n* A User cannot retrieve details of any other User\r\n* A User can delete itself from the Web Application.\r\n* A User can create a Reservation with an Establishment for a specific Event. Must specify how many people will assist.\r\n* A User can list all the Establishments registered in the Web Application.\r\n* A User cannot list the Providers registered in the Web Application.",
+    "IssueCreateDate": "2021-09-29T16:57:17Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "dbarrerap",
+    "RepoOwner": "dbarrerap"
+  },
+  {
+    "IssueName": "Procedure formatting/numbering is off",
+    "IssueUrl": "https://github.com/openshift/openshift-docs/issues/36916",
+    "IssueBody": "<!--\r\nPlease submit only documentation-related issues with this form, or follow the\r\nContribute to OpenShift guidelines (https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/contributing.adoc) to submit a PR.\r\n-->\r\n\r\n### Which section(s) is the issue in?\r\n\r\nCreating the frontend service: https://docs.openshift.com/container-platform/4.8/openshift_images/templates-using-ruby-on-rails.html#templates-rails-creating-frontend-service_templates-ruby-on-rails\r\n\r\n### What needs fixing?\r\n\r\nSomething is off about this procedure, where step 3 is an \"Example output\", and then after that code block, the numbering resets to 1:\r\n\r\n![image](https://user-images.githubusercontent.com/7443887/135313883-cd2aeedb-8765-4f6d-ac30-7ab0a9059f88.png)\r\n\r\nI'm guessing that the example output heading there is currently `. Example output` (which marks it as a list), but instead there should be no space after the period, like `.Example output`, which would render it as a heading.",
+    "IssueCreateDate": "2021-09-29T16:53:45Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "bergerhoffer",
+    "RepoOwner": "openshift"
+  },
+  {
+    "IssueName": "SHARE YOUR ART",
+    "IssueUrl": "https://github.com/yashpaneliya/Flutter-Art/issues/5",
+    "IssueBody": "The aim to make this repo is to make a gallery where developers can showcase their **ART from code** globally.\r\n\r\nContribute to the repo and share it with your peers and also tell them to contribute and learn.",
+    "IssueCreateDate": "2021-09-29T16:52:55Z",
+    "LabelCount": 3,
+    "Labels": "good first issue, hacktoberfest2021, Hacktoberfest",
+    "ReportingUser": "yashpaneliya",
+    "RepoOwner": "yashpaneliya"
+  },
+  {
+    "IssueName": "SHOWCASE YOUR CREATIONS",
+    "IssueUrl": "https://github.com/yashpaneliya/Just-Web-Things/issues/59",
+    "IssueBody": "The aim to make this repo is to make a gallery where developers can showcase their work globally. \r\n\r\nContribute to the repo and share it with your peers and also tell them to contribute and learn.",
+    "IssueCreateDate": "2021-09-29T16:51:32Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, Hacktoberfest",
+    "ReportingUser": "yashpaneliya",
+    "RepoOwner": "yashpaneliya"
+  },
+  {
+    "IssueName": "create first pull request",
+    "IssueUrl": "https://github.com/iamdevvalecha/Hacktoberfest-21-Open-First-PR/issues/2",
+    "IssueBody": "1. Add your profile picture to the folder\r\nAdd a picture picture of your choice in static/images/. Accepted files are png and jpg, should be squared and minimum size 544x544 pixels. Ex.\r\n\r\nstatic/images/<YOUR-USERNAME>.png\r\n2. Add your profile information\r\nCreate a markdown file in your folder following the convention content/participant/<YOUR-USERNAME>.md. Ex.\r\n\r\ncontent/participant/<YOUR-USERNAME>.md/\r\nCopy the next template into your file, delete the boilerplate data and fill the information with yours.\r\n\r\n\r\nname: YOURNAME\r\ninstitution/company: INSTITUTION_NAME\r\ngithub:USERNAME\r\n",
+    "IssueCreateDate": "2021-09-29T16:50:48Z",
+    "LabelCount": 4,
+    "Labels": "documentation, enhancement, good first issue, Hacktoberfest",
+    "ReportingUser": "iamdevvalecha",
+    "RepoOwner": "iamdevvalecha"
+  },
+  {
+    "IssueName": "Add the methods function",
+    "IssueUrl": "https://github.com/HacktoberfestSIT/Tools-Bot/issues/1",
+    "IssueBody": "You have to add method available <a href=\"https://core.telegram.org/bots/api#available-methods\">here</a>",
+    "IssueCreateDate": "2021-09-29T16:48:58Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, Hacktoberfest",
+    "ReportingUser": "Gourav8152-ai",
+    "RepoOwner": "HacktoberfestSIT"
+  },
+  {
+    "IssueName": "Find largest rectangle of 0 in Matrix",
+    "IssueUrl": "https://github.com/avinash201199/DSA-Questions/issues/11",
+    "IssueBody": "Hi I'm an Hactoberfest participant and I would like to submit this question that falls under the Matrix category :\r\n\r\nGiven a Matrix of size (n,n) only composed of 1 and 0, find the coordinates of the largest rectangle only composed of 0.\r\n\r\nKindly assign me this issue.",
+    "IssueCreateDate": "2021-09-29T16:48:05Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "28Pollux28",
+    "RepoOwner": "avinash201199"
+  },
+  {
+    "IssueName": "Ensure compatibility for React strict mode ",
+    "IssueUrl": "https://github.com/JackHowa/react-actioncable-provider/issues/33",
+    "IssueBody": "- See pr started https://github.com/JackHowa/react-actioncable-provider/pull/26\r\n- also see beginning of solution https://gist.github.com/fabiobarboza7/7954170aa0b539a5c8591759ec200107 via  \r\n@fabiobarboza7 here https://github.com/cpunion/react-actioncable-provider/issues/28\r\n\r\n- [ ] Tests should pass. They need to be updated\r\n- [ ] Test on application despite changes to lifecycle hooks",
+    "IssueCreateDate": "2021-09-29T16:45:50Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "JackHowa",
+    "RepoOwner": "JackHowa"
+  },
+  {
+    "IssueName": "Remove create-react-class (perf improvement)",
+    "IssueUrl": "https://github.com/JackHowa/react-actioncable-provider/issues/32",
+    "IssueBody": "Started on this based on other prs https://github.com/JackHowa/react-actioncable-provider/pull/31\r\n\r\n- [ ] Ensure package is still compatible with IE 11\r\n- [ ] Add any tests you may see fit\r\n- [ ] Measure performance improvement ",
+    "IssueCreateDate": "2021-09-29T16:43:26Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "JackHowa",
+    "RepoOwner": "JackHowa"
+  },
+  {
+    "IssueName": "Menu: Section headers should be read out by screen readers",
+    "IssueUrl": "https://github.com/GetJobber/atlantis/issues/698",
+    "IssueBody": "Section headers are not read out to assistive technologies.",
+    "IssueCreateDate": "2021-09-29T16:42:22Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "eddysims",
+    "RepoOwner": "GetJobber"
+  },
+  {
+    "IssueName": "Callouts should use normal callout syntax",
+    "IssueUrl": "https://github.com/openshift/openshift-docs/issues/36914",
+    "IssueBody": "<!--\r\nPlease submit only documentation-related issues with this form, or follow the\r\nContribute to OpenShift guidelines (https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/contributing.adoc) to submit a PR.\r\n-->\r\n\r\n### Which section(s) is the issue in?\r\n\r\nRunning tasks in pods using jobs: https://docs.openshift.com/container-platform/4.8/nodes/jobs/nodes-nodes-jobs.html#nodes-nodes-jobs-creating-cron_nodes-nodes-jobs\r\n\r\n### What needs fixing?\r\n\r\nThe callouts below the code block use regular numbers to specify the text for each callout:\r\n\r\n![image](https://user-images.githubusercontent.com/7443887/135311926-b12bf1e7-050f-44df-b8f6-b89f7026b437.png)\r\n\r\nInstead, they should use the callout syntax, which looks like:\r\n\r\n```\r\n<1> The pod replicas a job should run in parallel.\r\n<2> Successful pod completions are needed to mark a job completed.\r\n...\r\n```\r\n\r\nThis will render the numbers in a blue circle, like this:\r\n\r\n![image](https://user-images.githubusercontent.com/7443887/135312377-a9de711b-a459-4074-a508-e0f783bf1d2b.png)\r\n",
+    "IssueCreateDate": "2021-09-29T16:41:59Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "bergerhoffer",
+    "RepoOwner": "openshift"
+  },
+  {
+    "IssueName": "[refactoring] migrate from convention to syntax for private fields",
+    "IssueUrl": "https://github.com/ngarbezza/oow/issues/52",
+    "IssueBody": "**Problem**\r\nWe're handling private fields using the `_field` convention. As this is a convention, the fields are still accessible.\r\n\r\n**Proposed solution**\r\nNow we can use `#field` syntax: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_With_Private_Class_Features, that is supported since Node 6, so there are no issues with introducing the syntax to this project.\r\n\r\nThe proposal is to change it across the whole codebase. We can make chunks of changes in different PRs if that's helpful.",
+    "IssueCreateDate": "2021-09-29T16:41:35Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, good first issue, hacktoberfest",
+    "ReportingUser": "ngarbezza",
+    "RepoOwner": "ngarbezza"
+  },
+  {
+    "IssueName": "Menu: First item should receive focus when opened",
+    "IssueUrl": "https://github.com/GetJobber/atlantis/issues/697",
+    "IssueBody": "The first menu item does not receive focus when opened (user must tab to the first menu item).",
+    "IssueCreateDate": "2021-09-29T16:41:32Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "eddysims",
+    "RepoOwner": "GetJobber"
+  },
+  {
+    "IssueName": "Unit test the /castling command",
+    "IssueUrl": "https://github.com/chesslablab/chess-server/issues/40",
+    "IssueBody": "This issue is intended to practice software architecture skills as well as unit testing.\r\n\r\nAs you may have noted, there's a one-to-one correspondence between the `Chess\\Game` methods described in the [PHP Chess Docs](https://php-chess.readthedocs.io/en/latest/game-methods/) and the commands available in the chess server:\r\n\r\n- `ascii(): string` <-> `ChessServer\\Command\\AsciiCommand.php`\r\n- `captures(): array` <-> `ChessServer\\Command\\CapturesCommand.php`\r\n- `castling(): ?array` <-> `ChessServer\\Command\\CastlingCommand.php`\r\n- ...\r\n\r\nAll commands should be unit tested in [`ChessServer\\Tests\\Unit\\Command`](https://github.com/chesslablab/chess-server/tree/master/tests/unit/Command). However, the `ChessServer\\Tests\\Unit\\Command\\CastlingTest.php` file is missing.\r\n\r\nThe missing file should be added as per the existing conventions.\r\n\r\nHappy learning and coding!",
+    "IssueCreateDate": "2021-09-29T16:41:15Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "programarivm",
+    "RepoOwner": "chesslablab"
+  },
+  {
+    "IssueName": "[refactoring] Use syntax for private fields",
+    "IssueUrl": "https://github.com/ngarbezza/testy/issues/205",
+    "IssueBody": "**Problem**\r\nWe're handling private fields using the `_field` convention. As this is a convention, the fields are still accessible.\r\n\r\n**Proposed solution**\r\nNow we can use `#field` syntax: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_With_Private_Class_Features, that is supported since Node 6, so there are no issues with introducing the syntax to this project.\r\n\r\nThe proposal is to change it across the whole codebase. We can make chunks of changes in different PRs if that's helpful.",
+    "IssueCreateDate": "2021-09-29T16:40:41Z",
+    "LabelCount": 3,
+    "Labels": "enhancement, good first issue, hacktoberfest",
+    "ReportingUser": "ngarbezza",
+    "RepoOwner": "ngarbezza"
+  },
+  {
+    "IssueName": "Menu: Esc key should close the menu",
+    "IssueUrl": "https://github.com/GetJobber/atlantis/issues/696",
+    "IssueBody": "The `Esc` key does not work as advertised (VoiceOver, for example, understands that Menu is a menu and reads \u201cpress the Esc key to close\u201d, but we do not offer this functionality). This means that to close the menu, the user must ensure they have tabbed to the button and then hit return/space to close. ",
+    "IssueCreateDate": "2021-09-29T16:40:23Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "eddysims",
+    "RepoOwner": "GetJobber"
+  },
+  {
+    "IssueName": "Create an example page - as a guideline document",
+    "IssueUrl": "https://github.com/a-r-1/django-cheatsheet/issues/2",
+    "IssueBody": "- [ ] create markdown page titled example-page.md\r\n- [ ] add in an example Django code snippet into the page\r\n- [ ] include consistent formatting and styling (refer to the readme.md if this section has been updated) ",
+    "IssueCreateDate": "2021-09-29T16:39:58Z",
+    "LabelCount": 3,
+    "Labels": "documentation, good first issue, Hacktoberfest",
+    "ReportingUser": "a-r-1",
+    "RepoOwner": "a-r-1"
+  },
+  {
+    "IssueName": "new lesson: StringBuilder in Java",
+    "IssueUrl": "https://github.com/Utkarsh1504/DSA-Java/issues/26",
+    "IssueBody": "### \u2b50 Request Type\n\nAdd brief documentation on the StringBuilder Class in Java.\r\nThe markdown file is located [here](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/string-builder.md).\r\n\r\n### Lesson Content\r\n1. Introduction\r\n2. Code examples for StringBuilder\r\n3. code explanation\n\n### \ud83d\udcbb Location\n\nThis lesson is present under the\r\nSection: 6\r\nLesson: B\r\nLocation Order: 6B\r\nFile-Name: [string-builder.md](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/string-builder.md)\n\n### \u274c Additional Info\n\nYou can take the help of other markdown files in the [/lesson](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/loops.md) directory so that you get the idea of in which fashion you should write.\r\n\r\nIf you don't know how to do markdown, don't worry it is quite easy, just follow this docs-https://guides.github.com/features/mastering-markdown/\r\n\r\nIf your concepts are not that good follow this StringBuilder video of @kunal-kushwaha (https://www.youtube.com/watch?v=zL1DPZ0Ovlo)",
+    "IssueCreateDate": "2021-09-29T16:35:26Z",
+    "LabelCount": 4,
+    "Labels": "good first issue, java, hacktoberfest, easy",
+    "ReportingUser": "Utkarsh1504",
+    "RepoOwner": "Utkarsh1504"
+  },
+  {
+    "IssueName": "[Bug] Change credentials to point to localhost",
+    "IssueUrl": "https://github.com/sudhay23/ShopOnline-Web-App/issues/11",
+    "IssueBody": "#### Description\r\nApp cannot be run on localhost now because `$host` points to `epizy.com` but we don't have the app hosted their anymore\r\n```\r\n $host = \"sql206.epizy.com\"; \r\n $dbUsername = \"epiz_29762748\"; \r\n $dbPassword = \"CrifBpYoOS3lWg\"; \r\n $dbname = \"epiz_29762748_shoponline\"; \r\n```\r\n#### Expected Behavior\r\nSet default to localhost, so that contributors can run the app locally\r\n```\r\n $host = \"localhost\"; \r\n $dbUsername = \"admin\"; \r\n $dbPassword = \"admin\"; \r\n $dbname = \"shoponline\"; \r\n```\r\n## Make the above change in all the php files until we fix #6 (Storing credentials in a `.env` file)\r\n#### Screenshots/Logs\r\n## Uncomment localhost credentials and remove `epizy` credentials for all the `php` files \r\nhttps://github.com/sudhay23/ShopOnline-Web-App/blob/722d8c5edd219c888af98d7ca1f7d05135c9c8f9/With%20PHP/backend/addProduct.php#L12-L20\r\n\r\n",
+    "IssueCreateDate": "2021-09-29T16:33:23Z",
+    "LabelCount": 4,
+    "Labels": "bug, help wanted, good first issue, hacktoberfest",
+    "ReportingUser": "san-coding",
+    "RepoOwner": "sudhay23"
+  },
+  {
+    "IssueName": "Command and text are cut off in a note",
+    "IssueUrl": "https://github.com/openshift/openshift-docs/issues/36912",
+    "IssueBody": "<!--\r\nPlease submit only documentation-related issues with this form, or follow the\r\nContribute to OpenShift guidelines (https://github.com/openshift/openshift-docs/blob/main/contributing_to_docs/contributing.adoc) to submit a PR.\r\n-->\r\n\r\n### Which section(s) is the issue in?\r\n\r\n\"Creating cron jobs\": https://docs.openshift.com/container-platform/4.8/nodes/jobs/nodes-nodes-jobs.html#nodes-nodes-jobs-creating-cron_nodes-nodes-jobs\r\n\r\n\r\n### What needs fixing?\r\n\r\nThe note at the bottom of the page has a long command that is wider than the box and some of the words and command are cut off:\r\n\r\n![image](https://user-images.githubusercontent.com/7443887/135310604-63d9aea1-f809-4f70-b4cc-3e79848fc98c.png)\r\n\r\nThis can probably be fixed by using \"\\\\\" to continue the command onto a second line, like:\r\n\r\n```\r\n$ oc create cronjob pi --image=perl --schedule='*/1 * * * *' \\ \r\n-- perl -Mbignum=bpi -wle 'print bpi(2000)'\r\n```",
+    "IssueCreateDate": "2021-09-29T16:33:12Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "bergerhoffer",
+    "RepoOwner": "openshift"
+  },
+  {
+    "IssueName": "issue-1",
+    "IssueUrl": "https://github.com/mohit354/hack2021/issues/1",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T16:30:10Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "mohit354",
+    "RepoOwner": "mohit354"
+  },
+  {
+    "IssueName": "new lesson: Introduction to Strings",
+    "IssueUrl": "https://github.com/Utkarsh1504/DSA-Java/issues/25",
+    "IssueBody": "### \u2b50 Request Type\r\n\r\nAdd in-depth documentation on the Strings in Java.\r\nThe markdown file is located [here](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/intro-string.md).\r\n\r\n### Lesson Content\r\nThe lesson must contain at least these are the topics:\r\n\r\n1. Introduction\r\n2. What is String?\r\n3. String Creation: String Literal\r\n4. String Creation: new Keyword\r\n4. How Strings Stored In Memory\r\n5. String Pooling\r\n6. String Immutability In Java\r\n7. String Comparison\r\n8. PrintStream Class\r\n9. Important Strings Methods\r\n10. String Operations\r\n10. Format Specifier\r\n11. String VS String Buffer\r\n12. Some code examples\r\n13. Conclusion\r\n\r\n\r\n### \ud83d\udcbb Location\r\n\r\nThis lesson is present under the\r\nSection: `6`\r\nLesson: `A`\r\nLocation Order: `6A`\r\nFile-Name: [`intro-string.md`](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/intro-string.md)\r\n\r\n### \u274c Additional Info\r\n\r\nYou can take the help of other markdown files in the [/lesson](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/loops.md) directory so that you get the idea of in which fashion you should write.\r\n\r\nIf you don't know how to do markdown, don't worry it is quite easy, just follow this docs-https://guides.github.com/features/mastering-markdown/\r\n\r\nIf your concepts are not that good follow this String and StringBuilder In Java video of @kunal-kushwaha (https://www.youtube.com/watch?v=zL1DPZ0Ovlo)",
+    "IssueCreateDate": "2021-09-29T16:29:10Z",
+    "LabelCount": 5,
+    "Labels": "documentation, enhancement, help wanted, java, hacktoberfest",
+    "ReportingUser": "Utkarsh1504",
+    "RepoOwner": "Utkarsh1504"
+  },
+  {
+    "IssueName": "ISSUE-1",
+    "IssueUrl": "https://github.com/FarziPythonic/hack2021/issues/1",
+    "IssueBody": null,
+    "IssueCreateDate": "2021-09-29T16:28:22Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "FarziPythonic",
+    "RepoOwner": "FarziPythonic"
+  },
+  {
+    "IssueName": "Rectangle with Stars",
+    "IssueUrl": "https://github.com/abirbhattacharya82/Pattern-Printing-Codes/issues/5",
+    "IssueBody": "Create a solid rectangle with stars",
+    "IssueCreateDate": "2021-09-29T16:28:18Z",
+    "LabelCount": 1,
+    "Labels": "hacktoberfest",
+    "ReportingUser": "abirbhattacharya82",
+    "RepoOwner": "abirbhattacharya82"
+  },
+  {
+    "IssueName": "Create Entities",
+    "IssueUrl": "https://github.com/dbarrerap/ReservationsAPI/issues/1",
+    "IssueBody": "The Database will include the following Entities:\r\n\r\n* Role: To identify if user is Provider, Client or Establishment.\r\n* Contact (Abstract entity for ProviderContact and EstablishmentContact): Name, Phone Number, Role ID\r\n* Provider: Name, Address.\r\n* ProviderContact: Position (Management, Administration, Operative), Provider ID.\r\n* Product: Name, Description, SKU, Barcode (EAN-13), Cost, Sale Price, Taxable, Provider ID.\r\n* Establishment: Name, Address.\r\n* EstablishmentContact: Establishment ID.\r\n* Event: Name, Date, Details, Establishment ID.\r\n* Client: Name, Email, Address, Password, Role.\r\n* Reservation: A Client can make a reservation with many Establishment. An establishment can have a reservation of many Client. Table Number, Party of (Number of participants).",
+    "IssueCreateDate": "2021-09-29T16:27:05Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "dbarrerap",
+    "RepoOwner": "dbarrerap"
+  },
+  {
+    "IssueName": "issue2",
+    "IssueUrl": "https://github.com/mohit358/Hack2021/issues/2",
+    "IssueBody": "issue 2 for hack 2021.\r\n\r\nwhat you need to do\r\njust make a PR with this issue with any data",
+    "IssueCreateDate": "2021-09-29T16:26:05Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "mohit358",
+    "RepoOwner": "mohit358"
+  },
+  {
+    "IssueName": "issue1",
+    "IssueUrl": "https://github.com/mohit358/Hack2021/issues/1",
+    "IssueBody": "Issue1 for hack2021",
+    "IssueCreateDate": "2021-09-29T16:25:21Z",
+    "LabelCount": 1,
+    "Labels": "Hacktoberfest",
+    "ReportingUser": "mohit358",
+    "RepoOwner": "mohit358"
+  },
+  {
+    "IssueName": "Banner: Close button should have a more distinct `aria-label`",
+    "IssueUrl": "https://github.com/GetJobber/atlantis/issues/695",
+    "IssueBody": "Close button on the `Banner` should be more distinct `aria-label` (ex. \"Close notification\") so its clear what it relates to rather than just \"close\"",
+    "IssueCreateDate": "2021-09-29T16:23:54Z",
+    "LabelCount": 2,
+    "Labels": "hacktoberfest, Good First issue",
+    "ReportingUser": "eddysims",
+    "RepoOwner": "GetJobber"
+  },
+  {
+    "IssueName": "Implement configuration checking",
+    "IssueUrl": "https://github.com/SurPathHub/Dayong/issues/9",
+    "IssueBody": "To some degree, Dayong allows high-level customization through the [config.json](https://github.com/SurPathHub/Dayong/blob/main/config.json) file. Although we only use it now to change how we experience commands and interactions, it's likely to cause erroneous behaviors, especially as the config file becomes larger as we add more features that rely on it.\r\n\r\nConfiguration checking helps us avoid any problems that may arise from using the config.json file by first verifying that software requirements are met. It's basically just a process that tells us whether a configuration is good or bad. Dayong does not have that kind of functionality yet.",
+    "IssueCreateDate": "2021-09-29T16:23:23Z",
+    "LabelCount": 4,
+    "Labels": "enhancement, good first issue, help wanted, hacktoberfest",
+    "ReportingUser": "huenique",
+    "RepoOwner": "SurPathHub"
+  },
+  {
+    "IssueName": "Unit test the /ascii command",
+    "IssueUrl": "https://github.com/chesslablab/chess-server/issues/38",
+    "IssueBody": "This issue is intended to practice software architecture skills as well as unit testing.\r\n\r\nAs you may have noted, there's a one-to-one correspondence between the `Chess\\Game` methods described in the [PHP Chess Docs](https://php-chess.readthedocs.io/en/latest/game-methods/) and the commands available in the chess server:\r\n\r\n- `ascii(): string` <-> `ChessServer\\Command\\AsciiCommand.php`\r\n- `captures(): array` <-> `ChessServer\\Command\\CapturesCommand.php`\r\n- `castling(): ?array` <-> `ChessServer\\Command\\CastlingCommand.php`\r\n- ...\r\n\r\nAll commands should be unit tested in the [`ChessServer\\Tests\\Unit\\Command`](https://github.com/chesslablab/chess-server/tree/master/tests/unit/Command) namespace; however, the `ChessServer\\Tests\\Unit\\Command\\AsciiTest.php` file is missing at the present moment.\r\n\r\nThe missing file should be added as per the existing conventions.\r\n\r\nHappy learning and coding!",
+    "IssueCreateDate": "2021-09-29T16:15:33Z",
+    "LabelCount": 2,
+    "Labels": "good first issue, hacktoberfest",
+    "ReportingUser": "programarivm",
+    "RepoOwner": "chesslablab"
+  },
+  {
+    "IssueName": "Hamming Distance Utility function",
+    "IssueUrl": "https://github.com/PennyLaneAI/pennylane/issues/1703",
+    "IssueBody": "Many quantum applications use the [Hamming Distance](https://en.wikipedia.org/wiki/Hamming_distance) between two states.\r\n\r\nWhile this is a fairly straightforward thing to calculate, we should make it even easier and keep users from having to think about it at all.\r\n\r\nWe should also allow the function to accept all state representation forms:\r\n\r\nA) integers representing states in their binary forms. for example `4 = \"100\"`\r\nB) string form of a binary number, like `\"100\"`\r\nC) array of booleans, like `[1,0, 0]`\r\n\r\nPotential examples:\r\n```\r\n>>> qml.HammingDistance(3,4) \r\n3\r\n>>> qml.HammingDistance(\"100\", \"011\")\r\n3\r\n>>> qml.HammingDistance([1,0,0], [0,1,1])\r\n3\r\n```\r\n\r\nThis utility function could be placed in the [`utils.py`](https://github.com/PennyLaneAI/pennylane/blob/master/pennylane/utils.py) file.",
+    "IssueCreateDate": "2021-09-29T16:12:01Z",
+    "LabelCount": 3,
+    "Labels": "enhancement :sparkles:, good first issue, Hacktoberfest",
+    "ReportingUser": "albi3ro",
+    "RepoOwner": "PennyLaneAI"
+  },
+  {
+    "IssueName": "new lesson: Cycle Sort",
+    "IssueUrl": "https://github.com/Utkarsh1504/DSA-Java/issues/24",
+    "IssueBody": "### \u2b50 Request Type\r\n\r\nAdd in-depth documentation on the sorting algorithm Cycle Sort.\r\nyou need to create a markdown file for this.\r\n\r\n### Lesson Content\r\nThe lesson must contain at least these are the topics:\r\n\r\n1. Introduction to Cycle Sort\r\n2. Complete explanation on Cycle Sort\r\n3. Complexity Analysis of Cycle Sort\r\n4. Worst-Case + Best Case\r\n5. Code for Cycle Sort\r\n6. Explanation of Code Example\r\n\r\n### \ud83d\udcbb Location\r\n\r\nThis lesson should be present under the\r\nSection: `5`\r\nLesson: `F`\r\nLocation Order: `5E`\r\nFile-Name: `cyclesort.md`\r\n\r\n### \u274c Additional Info\r\n\r\nYou can take the help of other markdown files in the [/lesson](https://github.com/Utkarsh1504/DSA-Java/blob/main/lessons/loops.md) directory so that you get the idea of in which fashion you should write.\r\n\r\nIf you don't know how to do markdown, don't worry it is quite easy, just follow this docs-https://guides.github.com/features/mastering-markdown/\r\n\r\nIf your concepts are not that good follow this Cycle sort video of @kunal-kushwaha (https://www.youtube.com/watch?v=JfinxytTYFQ)",
+    "IssueCreateDate": "2021-09-29T16:11:55Z",
+    "LabelCount": 3,
+    "Labels": "documentation, hacktoberfest, algorithm",
+    "ReportingUser": "Utkarsh1504",
+    "RepoOwner": "Utkarsh1504"
+  },
+  {
+    "IssueName": "Define the structure of the cheetsheet pages",
+    "IssueUrl": "https://github.com/a-r-1/django-cheatsheet/issues/1",
+    "IssueBody": "- [ ] Add to readme.md and explain how the cheetsheet pages are organised\r\n- [ ] Add new blank (empty) cheetsheet pages (including sub-directories, if logical) to the repo",
+    "IssueCreateDate": "2021-09-29T16:11:42Z",
+    "LabelCount": 3,
+    "Labels": "documentation, good first issue, Hacktoberfest",
+    "ReportingUser": "a-r-1",
+    "RepoOwner": "a-r-1"
+  }
+]
