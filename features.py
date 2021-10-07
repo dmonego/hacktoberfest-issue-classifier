@@ -119,7 +119,7 @@ class RepoUrlFeature(Feature):
     name = "RepoUrl"
     def get_value(self):
         repo_url_parts = self.issue["repository_url"].split("/")
-        user, repo = repo_url_parts[:-2]
+        user, repo = repo_url_parts[-2:]
         return f"https://github.com/{user}/{repo}"
 
 
